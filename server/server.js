@@ -7,7 +7,8 @@ app.use(express.static("public/build"));
 const mailer = require("./mailer.js");
 
 app.post("/mail", function(req, res) {});
-app.get("/mail", function(req, res) {
+app.post("/mail", function(req, res) {
+  console.log(req.body);
   var name = req.param("name");
   var email = req.param("email");
   var text = req.param("text");
