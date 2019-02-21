@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "francescocommissoweb",
+  "private_key_id": "fe08da795166edd4088c2475606177fdfd388b53",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC0p+gRr9fiM/Jb\nsvU31c0YUfJXk2Qa/YUjNUZmSQBedNkhUHTUM+Nv+n7I3w5SqWWEe16nTa8addCY\nxwYSz7QonD6LhPy7b9XZHObYiXhIFSlsaa05JBSq/1uj94xP0Kc+PVNoJUIotFfS\nY2LwVaSpnfY38N4vJzaJ8ChTyTRk0E18iRvzpyOEklC+JrMjCA+x8rdSHK+7ORGZ\nO0sbiTxAgaZ/Jdu0XWuGUG2oZebhiuyEnN+iWwQme6xvlkA/RDjKmdzLaNOGDND/\n79noQihvosglmtv+gGJ0dCJoRChoeC7rp0/No3smnqVhEGPjJRlzmWoBiIP5+TKS\n3EBOSDmFAgMBAAECggEAAnW3HAKLAsNovVMLjZYBCGj0qm+aaCCITMTI3UE/7PcK\nxPdtjqr9WJczFAdBflA3vEq1dgRvRW92hpYFc10fEoNX1T7trJv5Js8nb4WBYY3h\n7N4MWrJTbgDp+QYUFhZqlkTdpDp1ExYY+gd1sesOVCJYjkW6H5z0t6djjS7K9MS4\nUhGDarUKBPc+pD/K6Bf5XO8dUEPGCXkrj7koW/UDPbLNocmGlLzyGXC2oEyHaJQo\nLsKp5skKTVz24fhBzzu8Q69Dqw6ZDAm+Ghr0TvhbcAo+W76t34RsX85aj/7D2jzU\nWHjnlpgDoGrFXInJQXVFK/HxX7CY5HYpp4poum6YkQKBgQDhxUka5CudzzzplcnL\nyJdBIQbZpVv3kRk3L6+5xY6bSUtSBvU5He+BQNx2DmJ8GDmF8znBdIENu/uS4vwW\n6hV7BiOKwc3y9nKlitMXL9T2+z0w1Lwdho1dQeHLj6+skDJ6bNmUAr11KBI1wxuU\n90VmpVVpfRFdzxKOxkGB7esv/QKBgQDM2Do60vvbXH0gKA3Ni9F/hA8khyq82QVu\nAIEnph3wsuwD2b7iPYzXqCHWutESUHYBYlzCk4v85gdLIxJtgrjlPIiz2oVvCkiY\nEKBhscffuSJ9er5vpJjeUiUjC8F3HEryjzT+RHHv/FgqD+2yBRIm+LtqtQndbSzP\ncv9ck0DSKQKBgQCPyqMA6YmN/MuCyc+4Zo1PAcXnIJYuWs+AgnKdEuH8rPW3zI6q\nThKYc8L1vbuj5ZndYkfKmnUHVk6oAsEjpvr/W62PVlfhAm2KWZyQC/rLQsB6NUOK\nWoP2fVtd1qnAciZ0Kpd42TXpRBg0/Yq3mbUt5uc7RFinMpdTL5nRMsKz0QKBgAfK\nzeRA9F2y1fusKmJASFbecikEj0ahxsgZctBMTGVEmR/IX6+BgeMOPUNK1fspXmPN\nFxQ7wp57LZnZGrFZwKjPta+Jx3ui24IVV9R/i8fh5gL58VaT31DNtSXxI4nhZKR3\neB+YAPGNGtl2w6b69GbRHWgAvQBUT9kQWdButY+JAoGAA7mskIODm5Zv10qmBRLQ\nN3wikJ5rc19mPxhXx7EQ9D4MakG/PaDMhckvL0VGaRjNW57207NnWLu3A+Dj7Jdm\nDct6e6w2ziVBnuD/iyA573CXZQmtI3IujYdvqBK/eXpkWnemHGdc1ZYJOnQxl9w3\nvS9bthcr20/gOuyYsmpum1s=\n-----END PRIVATE KEY-----\n",
+  "client_email": "francescocommissomail@francescocommissoweb.iam.gserviceaccount.com",
+  "client_id": "106067049337921888517",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/francescocommissomail%40francescocommissoweb.iam.gserviceaccount.com"
+}
