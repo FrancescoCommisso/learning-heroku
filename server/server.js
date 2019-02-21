@@ -1,8 +1,10 @@
 const express = require("express");
+var cors = require("cors");
 
 const app = express();
 
 app.use(express.static("public/build"));
+app.use(cors());
 
 const mailer = require("./mailer.js");
 
