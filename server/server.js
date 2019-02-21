@@ -1,9 +1,10 @@
 const express = require("express");
 const bodyParser = require("body-parser");
-const cors = require("cors");
+// const cors = require("cors");
+
 app.use(bodyParser);
 
-const app = express();
+// const app = express();
 
 app.use(express.static("public/build"));
 app.use(cors());
@@ -16,8 +17,6 @@ app.post("/mail", function(req, res) {
   var name = req.body.name;
   var email = req.body.email;
   var text = req.body.text;
-
-  //   res.send(user_id + " " + token + " " + geo);
 
   res.send(mailer.send(name, email, text));
 });
