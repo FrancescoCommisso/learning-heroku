@@ -14,7 +14,8 @@ app.post("/mail", function(req, res) {
   var text = req.param("text");
 
   //   res.send(user_id + " " + token + " " + geo);
-  mailer.send(name, email, text);
+
+  res.send(mailer.send(name, email, text));
 });
 
 app.listen(process.env.PORT || 8080, () => console.log("All is Ok bbg"));

@@ -34,6 +34,7 @@ exports.send = function(name, email, text) {
       console.log(err.message);
     } else {
       console.log("Email Sent!");
+      return mailOptions;
     }
   });
 };
