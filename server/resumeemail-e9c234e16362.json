@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "resumeemail",
+  "private_key_id": "e9c234e163625a7e3c3c3504bebd57b8c812468a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCf/ZF+L/S90RZJ\n/sKDUwCipZP7r2e09dHs+RXKD4utmURga8DNKyJMFumzHR9GZbuI6ECL0gcxof1c\nW0q3Zk11MjknR9LoAjlYEn2amVpCkrJwuQTsVPwANU1hAL55hJGeG2JDtOJhW4lP\nspVcg+klTVHp5+lerbcUQ/fe9rBqTIyACfBqQHMuMClKjQDYyBNdwCbfQ04TlzHC\nlQVjI1z9mZYlyccH4RSAnV5LGn+e5nx5X8Qb6lrc5OoAADUVKw78IMwNSjaK9GHt\nqTtjqvZJrZlwBwjzHrrPkWq6EQtBTemN/PVGNhrgkDl9zE/GUNuWFqb82PeYOxQv\nekMxSy1vAgMBAAECggEALhnuhTqDXvjzX8IRwa62tadZo4IRM6NL6OmDflSJbq4F\n9nTGOziNKvjFQbAIFYx2BAbMpp2QJhyj+atytbM8aaNdtbRsER+m73pwiA5dZGaK\nFZIy2XjJnrO9RtDkkfaB0VnZsGHcg6pRQE5Y3K5EDdQgYPLLG9WZtjS5pZ1XC2Hr\nziKbMd2I88HZ0P/sDJDXoLx30ucLSPRexLst/c1Jb3hPzEH6OctesjSJZQRCMhoK\nBDiNjkAXsgKzdm9T3tnKczwaMHspzZ4qGRKWrBXeRfjlAY9HP7cFkhkfXxoBGGm/\nOdrr+bY7yYtu6vo7PAwiOko/utR4uKcDZrb1oyDwzQKBgQDLEDJfeG0HCfh38tLu\n+Cn2XVaIepwjiSxKCndzBWnx3a1mQQx78c/qwyv7ePxZj190BKRxHImArScGq15b\nNEPhdiZ4QmieVl3ru7/38oqocrwZcuZFjDrkI+yAb+MP/ho/L4zKlO0IZOoW4Nmw\ng3lf8PMNdGFdTbRb4cCy2fQzXQKBgQDJstSnaE9M6vdQWdMl33CRqFEn6+Wp+0Ub\nlVvAIbikfZeDGZBT9jV8mcDbdKj1zYiCUJ/IALtfsvPa7Imwo3N6sqT6rHMmM6At\nsZtmlW3JKxcsMULHMp0xoxL6PgPD4VX0KPwG+ij/na208FDQURrCFWP9q7zHW041\n7MDU97pDOwKBgQCdZsClIEPi4OeokqDOe66LOW6J/ABryzh5bAOLNPcadCqkyGdU\n6+uunfrJws5Y3bmvxKlyxBwRkiZeFRfeunSjn2HSdieCFJBY2f/Dwk2YpNcJIvc7\nkadUkEQSiqgHDYBq2gDYRvg1OYP6l/Al0sOSisLb+wo9uK3FSwiDmk6gQQJ/RVUz\nxFgW6lnaqcQ20M395BP30cFFMSkumEy/PUxaLDD/5BDli/cWa75ujQGNEvGT+ze7\ntQSLZFofeSHWMuH80DCYhZLCAl+8r/hdcuXq1zv4uzgzvEWpw2ZLH7oxkSPkaAmu\nmLdlYHjTPV9eaD149T5lIM3oFp9MQz0fDBYb8QKBgQCF01Ka4i5GG3j2zb3wSMnk\niqHcd4w4hIUVb/resgXQvxa9QoLRwZGrnHhBugrC0evtwPDZ2cpqPDExXcY2Jb+u\nwTyzOmYRBpmAxn+2Ensbn3n9JEy8okN7yGYqLGFfCh1/GkNXinI3SUintI3DQvKs\nC7i0Wu2DYKT5ZXUKoUXJJw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "francescomailer@resumeemail.iam.gserviceaccount.com",
+  "client_id": "101288758606640154066",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/francescomailer%40resumeemail.iam.gserviceaccount.com"
+}
