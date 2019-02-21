@@ -11,9 +11,9 @@ const mailer = require("./mailer.js");
 app.post("/mail", function(req, res) {
   console.log("Email request received");
   console.log(req.body);
-  var name = req.param("name");
-  var email = req.param("email");
-  var text = req.param("text");
+  var name = req.body.name;
+  var email = req.body.email;
+  var text = req.body.text;
 
   //   res.send(user_id + " " + token + " " + geo);
 
