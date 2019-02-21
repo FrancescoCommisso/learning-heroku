@@ -6,8 +6,8 @@ app.use(express.static("public/build"));
 
 const mailer = require("./mailer.js");
 
-app.post("/mail", function(req, res) {});
 app.post("/mail", function(req, res) {
+  console.log("Email request received");
   console.log(req.body);
   var name = req.param("name");
   var email = req.param("email");
@@ -18,9 +18,3 @@ app.post("/mail", function(req, res) {
 });
 
 app.listen(process.env.PORT || 8080, () => console.log("All is Ok bbg"));
-
-mailer.send(
-  "Billybob",
-  "bb@gmail.com,",
-  "I would like to hire you to be the billy to my bob"
-);
