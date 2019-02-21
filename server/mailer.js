@@ -21,17 +21,19 @@ var transporter = nodemailer.createTransport(
   })
 );
 
-var mailOptions = {
-  from: "Francesco <francescocommisso1996@gmail.com>",
-  to: "<Fcommisso@ryerson.ca>",
-  subject: "Some Subject",
-  text: "Hello Mailing World!"
+exports.send = function(name, email, text) {
+  var mailOptions = {
+    from: "<" + name + ">" + email,
+    to: "Francesco <Francescocommissodev@gmail.com>",
+    subject: name,
+    text: text
+  };
+  transporter.sendMail(mailOptions, function(err, res) {
+    console.log(mailOptions);
+    if (err) {
+      console.log(err.message);
+    } else {
+      console.log("Email Sent!");
+    }
+  });
 };
-
-transporter.sendMail(mailOptions, function(err, res) {
-  if (err) {
-    console.log(err.message);
-  } else {
-    console.log("Email Sent!");
-  }
-});
