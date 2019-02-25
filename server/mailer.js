@@ -3,7 +3,7 @@ var smtpTransport = require("nodemailer-smtp-transport");
 
 const auth = require("xoauth2");
 
-//TestY TEST TEST U SHOULDNT SEE ME NANANA BOOOBOO
+//Am I here?
 
 var transporter = nodemailer.createTransport(
   smtpTransport({

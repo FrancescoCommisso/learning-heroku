@@ -4,7 +4,9 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "node ./server/server.js"
+    "start": "node ./server/server.js",
+    "gitPush": "echo mailer.js > server/.gitignore git push",
+    "herokuPush": "rm server/.gitignore git push heroku master"
   },
   "repository": {
     "type": "git",
